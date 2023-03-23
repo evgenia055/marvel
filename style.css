@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(169, 123, 212);
+}
+
+h1 {color: rgb(145, 53, 53);
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+li {
+    font-size: small;
+}
+
+.text1 {
+    color: rgb(52, 224, 144)   
+}
+.text2 {
+    color: rgb(201, 85, 153);
+}
+.text3 {
+    color: rgb(216, 228, 51);
+}
